@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or these tables, please cite the manuscript and this archive."
+authors:
+  - family-names: Zhang
+    given-names: Chao
+    orcid: "https://orcid.org/0009-0000-6639-8638"
+    affiliation: "First Hospital of Jilin University, Changchun, Jilin, China"
+title: "cuproptosis-review: analysis code and derived tables"
+type: software
+license: MIT
+date-released: "2026-11-20"

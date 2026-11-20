@@ -1,0 +1,23 @@
+{
+  "title": "cuproptosis-review: analysis code and derived tables for a critical review of copper-ionophore selectivity",
+  "upload_type": "software",
+  "description": "Scripts and derived tables supporting a critical review of copper ionophores in cancer therapy. Includes the selectivity-index computation (TCGA/GTEx TOIL RSEM), the GDSC2 dose-range analysis, the label-permutation null for the coordination programme, and the literature-audit scripts. Primary data are public (UCSC Xena; GDSC2 release 8.5) and are not redistributed here.",
+  "creators": [
+    {
+      "name": "Zhang, Chao",
+      "affiliation": "First Hospital of Jilin University",
+      "orcid": "0009-0000-6639-8638"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cuproptosis",
+    "copper ionophores",
+    "elesclomol",
+    "glioblastoma",
+    "therapeutic window",
+    "reproducibility"
+  ],
+  "language": "eng",
+  "access_right": "open"
+}

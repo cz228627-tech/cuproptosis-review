@@ -1,0 +1,7 @@
+cancer,gene,n_normal,P95,max,P95/max,S,CI
+Cholangiocarcinoma,SLC7A11,9,0.04,0.05,0.76,2.96,2.25–11.25
+Cholangiocarcinoma,ATP7A,9,0.39,0.39,0.99,1.42,1.41–1.57
+Cholangiocarcinoma,LIPT1,9,2.84,2.96,0.96,1.24,1.19–1.41
+Glioblastoma,SLC31A1,5,8.34,8.49,0.98,1.09,1.07–1.27
+Glioblastoma,FDX1,5,6.53,6.54,1.0,1.05,1.05–1.12
+Cervical Cancer,PDHA1,3,72.62,73.39,0.99,1.04,1.03–1.25
