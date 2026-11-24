@@ -29,7 +29,7 @@ python code/make_fig3_v2.py            # Figure 1  (glioblastoma mismatches)
 python code/make_fig2_v2.py            # Figure 3  (pharmacology / GDSC2)
 python code/make_fig_framework.py      # Figure 4  (framework)
 python code/make_figS1_v2.py           # Supplementary Figure S1 (GDSC2 fields)
-python code/supp_table_s2_v2.py        # Supplementary Table S2
+python code/supp_table_s1.py          # Supplementary Table S1
 python code/label_permutation.py       # label-permutation null (AUC 0.50 vs observed 0.33, P < 0.002)
 python code/analyze_xena.py            # selectivity index and programme scores from the raw matrix
 ```
@@ -43,7 +43,7 @@ at the top of each file to point elsewhere.
 |---|---|---|
 | Pairs in the primary analysis | 240 (15 genes x 16 cancer types, n_normal >= 10) | `data/selectivity_main_n10.csv` |
 | Copper-gene pairs reaching S > 1 | 0 of 192 | `data/selectivity_main_n10.csv` |
-| Pairs exceeding S > 1 in the unfiltered matrix | 6 of 315, all with n_normal 3-9 | `data/supp_table_S2_six_pairs.csv` |
+| Pairs exceeding S > 1 in the unfiltered matrix | 6 of 315, all with n_normal 3-9 | `data/supp_table_S1_six_pairs.csv` |
 | Median programme AUC | 0.33 (label-permutation null 0.50; P < 0.002) | `data/per_cancer_programme.csv` |
 | GDSC2 IC50 values beyond the top dose | 100 of 225 (44.4%) | `data/` + Figure 3 |
 
